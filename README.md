@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarti Jadhav</h1>
 <h3 align="center">Devops Intern</h3>
 
-- 🔭 I’m currently working on **Inventory and billing management system**
-
 - 🌱 I’m currently learning **DevOps**
 
 - 📝 I regularly write articles on [https://medium.com/@jadhavaarti056](https://medium.com/@jadhavaarti056)
